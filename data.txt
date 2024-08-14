@@ -1,0 +1,5 @@
+Name KDR Eng MATH 
+Lee  90  50  70
+Kim  50  60  90
+Han  90  95  100
+Park  85  90  95
